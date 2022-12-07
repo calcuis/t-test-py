@@ -53,4 +53,4 @@ data2 = [2, 3, 4, 5, 6]
 t, p = independent_ttest(data1, data2)
 ```
 
-The function will then return the t-statistic and p-value for the t-test. In this case, the returned values might be something like `(-1.96, 0.07)`, indicating that the difference between the two samples is not statistically significant at the 0.05 level.
+The function will then return the t-statistic and p-value for the t-test. In this case, the returned values might be something like `(-1.96, 0.07)`, indicating that the difference between the two samples is not statistically significant at the .05 level.
